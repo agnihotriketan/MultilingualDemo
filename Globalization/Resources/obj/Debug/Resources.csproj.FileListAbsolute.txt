@@ -1,0 +1,12 @@
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\Globalization\Resources\bin\Debug\Resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\Globalization\Resources\bin\Debug\Resources.pdb
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\Globalization\Resources\bin\Debug\es\Resources.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\Globalization\Resources\bin\Debug\ar\Resources.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\Globalization\Resources\obj\Debug\Resources.Resources.resources
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\Globalization\Resources\obj\Debug\Resources.Resources.es.resources
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\Globalization\Resources\obj\Debug\Resources.Resources.ar.resources
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\Globalization\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\Globalization\Resources\obj\Debug\es\Resources.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\Globalization\Resources\obj\Debug\ar\Resources.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\Globalization\Resources\obj\Debug\Resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\Globalization\Resources\obj\Debug\Resources.pdb
