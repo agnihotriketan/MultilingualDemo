@@ -10,4 +10,6 @@ Our application should use added resource files instead of hard coded values. Fo
 
 On selection of language, I am setting culture and retreived value as per language from resource files.
 
-When we implement globalization, it is important to follow standard design guidelines . Because each culture may utilize different size of the screen. We may take care [No absolute positioning of controls, Use fluid layout with forms, No absolute size of controls, Try to arrange controls in a table].
+When we implement globalization, it is important to follow standard design guidelines . Because each culture may utilize different size of the screen.
+
+We may take care [No absolute positioning of controls, Use fluid layout with forms, No absolute size of controls, Try to arrange controls in a table].
