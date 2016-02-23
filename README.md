@@ -12,4 +12,8 @@ On selection of language, I am setting culture and retreived value as per langua
 
 When we implement globalization, it is important to follow standard design guidelines . Because each culture may utilize different size of the screen.
 
-We may take care [No absolute positioning of controls, Use fluid layout with forms, No absolute size of controls, Try to arrange controls in a table].
+> We may take care 
+1. No absolute positioning of controls
+2. Use fluid layout with forms
+3. No absolute size of controls
+4. Try to arrange controls in a table].
