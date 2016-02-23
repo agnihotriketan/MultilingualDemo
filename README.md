@@ -16,4 +16,4 @@ When we implement globalization, it is important to follow standard design guide
 1. No absolute positioning of controls
 2. Use fluid layout with forms
 3. No absolute size of controls
-4. Try to arrange controls in a table].
+4. Try to arrange controls in a table.
